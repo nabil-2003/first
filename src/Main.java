@@ -5,6 +5,7 @@ public class Main {
          Thread l = new Thread(new Animal("L" , 10));
          t.start();
          l.start();
+         //comment
 
 
     }
